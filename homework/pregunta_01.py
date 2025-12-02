@@ -24,7 +24,6 @@ def pregunta_01():
 
     Para ello, siga las instrucciones dadas en el siguiente video:
 
-    https://youtu.be/AgbWALiAGVo
 
     Tenga en cuenta los siguientes cambios respecto al video:
 
